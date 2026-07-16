@@ -2,9 +2,9 @@
 
 A sleek, dark-themed personal portfolio website for **Gulshan Tahzeeba**, a WordPress & Web Developer based in Bahawalpur, Pakistan. Built with pure HTML5 and CSS3 — no frameworks, no build tools — showcasing web development, WordPress, lead generation, and content writing work in one clean, single-page site.
 
-🔗 **Live Site:** [gulshantahzeeba-57.github.io/My_Portfolio](https://gulshantahzeeba-57.github.io/My_Portfolio/)
+**Live Site:** [gulshantahzeeba-57.github.io/My_Portfolio](https://gulshantahzeeba-57.github.io/My_Portfolio/)
 
-## ✨ Features
+## Features
 
 - **Black & Gold theme** — pure black background with champagne/classic gold accents for a premium, elegant feel
 - **Fully responsive** — adapts cleanly from desktop down to mobile
@@ -15,7 +15,7 @@ A sleek, dark-themed personal portfolio website for **Gulshan Tahzeeba**, a Word
 - **Glassmorphic contact form** — styled contact form ready to connect to a form backend (e.g. Formspree)
 - **Accessible** — visible keyboard focus states and `prefers-reduced-motion` support
 
-## 📂 Sections
+## Sections
 
 1. **Hero** — Introduction
 2. **Professional Summary** — About
@@ -25,14 +25,14 @@ A sleek, dark-themed personal portfolio website for **Gulshan Tahzeeba**, a Word
 6. **Work Experience** — Freelance & internship history
 7. **Contact** — Contact form, email, and social links
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS3 (Flexbox, Grid, custom properties, animations)
 - Vanilla JavaScript (IntersectionObserver for scroll effects)
 - [Google Fonts](https://fonts.google.com/) — Space Grotesk & Plus Jakarta Sans
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repo and open `index.html` in your browser — no build step required:
 
@@ -47,7 +47,7 @@ Then simply open `index.html`, or serve it locally:
 python3 -m http.server 8000
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 My_Portfolio/
@@ -65,7 +65,7 @@ My_Portfolio/
     └── Contact.png
 ```
 
-## 📬 Contact
+## Contact
 
 - **Email:** gulshantahzeeba.kir@gmail.com
 - **GitHub:** [@gulshantahzeeba-57](https://github.com/gulshantahzeeba-57)
